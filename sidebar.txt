@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gil:home|Door43 (gil)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gil|d43-gil repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gil/archive/master.zip|d43-gil.zip]]
+
+**Recent Changes**
+{{changes>ns = gil}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gil|Ethnologue data]]
+
